@@ -1,5 +1,5 @@
 {
-  "name": "Skibidi accents",
+  "name": "French Accents",
   "description": "Type French accents quickly with CTRL + SPACE.",
   "version": "1.0",
   "manifest_version": 3,
@@ -18,3 +18,4 @@
     "default_icon": "logo.png"
   }
 }
+
